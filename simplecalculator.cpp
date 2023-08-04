@@ -30,7 +30,7 @@ int main()
      else if(operato=='/')
      {
         if(num2==0)
-        cout<<"\nDivision for zero is not valid"<<endl;
+        cout<<"\nDivision by zero is not valid"<<endl;
         else
         cout<<"\n"<<num1<<"/"<<num2<<"="<<num1/num2<<endl;
      }
